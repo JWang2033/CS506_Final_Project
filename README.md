@@ -1,5 +1,5 @@
-# CS506_Final_Project
-### **Project: Predicting Wave Heights Based on Wind Speed and Atmospheric Pressure**
+# CS506_Final_Project,,
+### **Project: Predicting. Wave Heights Based on Wind Speed and Atmospheric Pressure**
 
 #### **Goal**:
 The goal is to build a predictive model for wave heights based on wind speed, atmospheric pressure, and other relevant weather conditions. This can be valuable for maritime safety, surfing conditions, or coastal erosion management.
